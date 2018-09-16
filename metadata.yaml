@@ -1,0 +1,29 @@
+_repo: Samuel-Pepys-and-the-World-He-Lived-In_51757
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wheatley, Henry B. (Henry Benjamin)
+    alias: Wheatley, H. B. (Henry Benjamin)
+    birthdate: 1838
+    deathdate: 1917
+    gutenberg_agent_id: '205'
+    url: http://www.gutenberg.org/2009/agents/205
+    wikipedia: http://en.wikipedia.org/wiki/Henry_B._Wheatley
+description: ''
+gutenberg_issued: '2016-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51757'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Social life and customs -- 17th century'
+- !lcsh 'Pepys, Samuel, 1633-1703'
+- !lcsh 'Cabinet officers -- Great Britain -- Biography'
+- !lcsh 'Diarists -- Great Britain -- Biography'
+- GITenberg
+title: Samuel Pepys and the World He Lived In
+url: http://www.gutenberg.org/ebooks/51757
